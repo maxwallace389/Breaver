@@ -18,7 +18,7 @@
 ### Prerequisites
 
 - Python 3.7 or higher
-- Required Python libraries (listed in `requirements.txt`)
+- Required Python libraries (listed in `req.txt`)
 
 ### Steps to Install
 
@@ -41,7 +41,7 @@
 
 3. **Install Required Packages**:
    ```bash
-   pip install -r requirements.txt
+   pip install -r req.txt
    ```
 
 ## Usage
