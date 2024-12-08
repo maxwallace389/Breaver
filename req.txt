@@ -1,0 +1,6 @@
+matplotlib
+numpy
+bleak
+rich
+fade
+python-dotenv
