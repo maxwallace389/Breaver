@@ -24,7 +24,7 @@
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/BluetoothRadarScanner.git
+   git clone https://github.com/maxwallace389/Breaver.git
    cd BluetoothRadarScanner
    ```
 
