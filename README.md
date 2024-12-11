@@ -25,7 +25,7 @@
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/maxwallace389/Breaver.git
-   cd BluetoothRadarScanner
+   cd Breaver
    ```
 
 2. **Create a Virtual Environment (optional but recommended)**:
